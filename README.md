@@ -1,2 +1,5 @@
 # ImageScanner
-This scanner supports multi-tasking: nudity image recognition, spoofing image recognition, and sensitive information detection.
+This AI scanner supports multi-tasking: 
+- Nudity image recognition
+- Spoofing image recognition
+- Sensitive information detection
