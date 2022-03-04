@@ -1,6 +1,6 @@
 # ImageScanner
 This AI scanner supports multi-tasking: 
-- Nudity image recognition
+- Nudity image recognition, dataset: https://archive.org/download/NudeNet_classifier_dataset_v1 
 - Spoofing image recognition
 - Sensitive information detection
 
